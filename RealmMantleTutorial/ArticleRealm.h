@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Marcin Kmiec. All rights reserved.
 //
 
-#import "RLMObject.h"
+#import <Realm/Realm.h>
 #import "ArticleModel.h"
 
 @interface ArticleRealm : RLMObject

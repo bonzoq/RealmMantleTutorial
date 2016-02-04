@@ -9,8 +9,7 @@
 #import "MasterViewController.h"
 #import "DetailViewController.h"
 #import "APIManager.h"
-#import "RLMRealm.h"
-#import "RLMResults.h"
+#import <Realm/Realm.h>
 #import "ArticleRealm.h"
 
 @interface MasterViewController ()

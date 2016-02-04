@@ -1,3 +1,3 @@
-pod "AFNetworking" 
-pod "Mantle"
-pod "Realm"
+pod 'Mantle'
+pod 'Realm'
+pod 'AFNetworking'
