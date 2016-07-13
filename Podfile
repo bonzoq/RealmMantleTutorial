@@ -1,3 +1,5 @@
-pod 'Mantle'
-pod 'Realm'
-pod 'AFNetworking'
+target 'RealmMantleTutorial' do
+	pod 'Mantle'
+	pod 'Realm'
+	pod 'AFNetworking'
+end
